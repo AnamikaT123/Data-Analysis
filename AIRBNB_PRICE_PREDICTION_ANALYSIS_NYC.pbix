@@ -1,1 +1,17 @@
-adasf
+1. AIRBNB PRICE PREDICTION ANALYSIS
+Problem:
+How can we understand the key factors that influence Airbnb listing prices across New York City, and help hosts and guests make smarter pricing and booking decisions?
+
+Action:
+Collected and cleaned a large Airbnb NYC dataset using Excel and Python. Performed exploratory data analysis to uncover trends in room types, availability, neighborhood demand, and seasonal fluctuations. Built a dynamic, interactive Power BI dashboard to visualize pricing patterns and support better decision-making.
+
+Result:
+Delivered a clear and insightful dashboard showing:
+
+Average pricing by neighborhood
+
+Impact of room type and availability on price
+
+Seasonal price trends across NYC
+
+This helped identify profitable areas and price ranges, empowering hosts to optimize their listings and guests to find better-value stays.
