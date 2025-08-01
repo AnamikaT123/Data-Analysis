@@ -1,1 +1,11 @@
+              COFFEE SHOP SALES DATA – Power BI Project Summary
+ Problem:
+The coffee shop lacked visibility into its daily sales trends, best-performing products, and customer purchasing patterns, making it hard to identify what drives profit and what needs improvement.
+
+Action:
+I designed a clean and interactive Power BI dashboard using sales transaction data. The dashboard includes key performance indicators (KPIs) like total revenue, quantity sold, most popular products, and time-based trends. I also added slicers to filter by product type, date, and branch location—making the dashboard dynamic and user-friendly.
+
+Result:
+The dashboard helped uncover the top-selling coffee items, peak business hours, and product-wise revenue contribution. It enabled management to make informed decisions on inventory, promotions, and staffing—leading to better customer experience and sales growth.
+
 
