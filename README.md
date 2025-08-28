@@ -7,6 +7,11 @@ Welcome to my data analysis portfolio! Below are the projects I’ve worked on u
 Problem: How can we understand what affects Airbnb pricing in New York City?
 Action: Cleaned and analyzed a large dataset using Excel and Python to explore patterns in room types, locations, and availability.
 Result: Built a Power BI dashboard showing high-demand areas, seasonal price changes, and neighborhood-wise average pricing — helping hosts and travelers make smarter decisions.
+## Dashboard Overview
+![Overview](screenshots/01_overview.png)
+
+## Geography Insights
+![Geography](screenshots/02_geo.png)
 
 2. BANK ANALYSIS
 Problem: Banks struggle to understand where they’re earning and where customers drop off.
