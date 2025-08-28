@@ -85,9 +85,21 @@ Result: Dashboard helped identify which posts and platforms were most effective 
 Problem: How to track personal or departmental spending and stay within budget?
 Action: Built a simple Power BI tool that compares planned vs. actual expenses across categories.
 Result: Provided clear visuals of overspending areas and supported smarter financial planning.
+## Budget Analysis Screenshots
 
-17. COVID ANALYSIS
+![Budget Analysis 1](https://raw.githubusercontent.com/AnamikaT123/Data-Analysis/main/Bughet%20Screenshot%202.jpeg)
+
+![Budget Analysis 2](https://raw.githubusercontent.com/AnamikaT123/Data-Analysis/main/Bughet%20Screenshot.jpeg)
+
+
+
+18. COVID ANALYSIS
 Problem: Understanding the spread and impact of COVID-19 across India.
 Action: Analyzed COVID data by state and time using Power BI visuals like maps and trend charts.
 Result: Built an informative dashboard showing daily cases, recoveries, and regional comparisons — useful for awareness and planning.
+
+
+## COVID Analysis Dashboard
+
+![COVID Analysis Dashboard](https://raw.githubusercontent.com/AnamikaT123/Data-Analysis/main/Covid%20Screenshot.jpeg)
 
