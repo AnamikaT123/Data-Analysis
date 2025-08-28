@@ -61,18 +61,32 @@ Result: Built a dashboard that highlights turnover by department, employee satis
 Problem: The company wants to know which mobile brands are top-selling and where to focus marketing.
 Action: Created a Power BI dashboard that tracks unit sales, revenue, and brand performance over time.
 Result: Helped identify top-performing regions and mobile models, enabling better promotional planning.
+## Mobile Sales Analysis – Dashboard Views
 
-14. SOCIAL MEDIA ANALYSIS DASHBOARD
+![Mobile Sales Analysis 1](https://raw.githubusercontent.com/AnamikaT123/Data-Analysis/main/Mobile%20Sales%20Analysis%20Screenshot.jpeg)
+
+![Mobile Sales Analysis 2](https://raw.githubusercontent.com/AnamikaT123/Data-Analysis/main/Mobile%20Sales%20Analysis%20%20sreenshot%202.jpeg)
+
+![Mobile Sales Analysis 3](https://raw.githubusercontent.com/AnamikaT123/Data-Analysis/main/Mobile%20Sales%20Analysis%20Screenshot%203.jpeg)
+
+
+
+15. SOCIAL MEDIA ANALYSIS DASHBOARD
 Problem: The client needs to track how well their social media campaigns are working.
 Action: Used Power BI to visualize engagement metrics like likes, shares, comments, and follower growth over time.
 Result: Dashboard helped identify which posts and platforms were most effective — guiding content strategy.
 
-15. BUDGET ANALYSIS
+
+## Social Media Analysis Dashboard
+
+![Social Media Dashboard](https://raw.githubusercontent.com/AnamikaT123/Data-Analysis/main/Social%20media%20Screenshot.jpeg)
+
+16. BUDGET ANALYSIS
 Problem: How to track personal or departmental spending and stay within budget?
 Action: Built a simple Power BI tool that compares planned vs. actual expenses across categories.
 Result: Provided clear visuals of overspending areas and supported smarter financial planning.
 
-16. COVID ANALYSIS
+17. COVID ANALYSIS
 Problem: Understanding the spread and impact of COVID-19 across India.
 Action: Analyzed COVID data by state and time using Power BI visuals like maps and trend charts.
 Result: Built an informative dashboard showing daily cases, recoveries, and regional comparisons — useful for awareness and planning.
