@@ -15,7 +15,7 @@ Result: Built a Power BI dashboard showing high-demand areas, seasonal price cha
 Problem: Banks struggle to understand where they’re earning and where customers drop off.
 Action: Used Power BI to analyze customer behavior, loan types, and revenue across different branches.
 Result: Delivered insights on which services were most profitable and suggested strategies to improve customer retention and sales.
-https://github.com/AnamikaT123/Data-Analysis/blob/main/Loan%20Application%20Screenshot.jpeg
+![Bank Analysis Dashboard](https://raw.githubusercontent.com/AnamikaT123/Data-Analysis/main/Loan%20Application%20Screenshot.jpeg)
 
 
 4. CLASSICMODELS SALES ANALYSIS
