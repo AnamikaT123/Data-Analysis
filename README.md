@@ -44,28 +44,35 @@ Result: Visualized churn patterns, predicted risky customers, and recommended st
 Problem: D-Mart needs to know which product categories are driving sales and where they lag.
 Action: Analyzed product, store, and sales data in Power BI to identify performance trends.
 Result: Designed a comprehensive dashboard that showed best-selling categories, monthly revenue growth, and store-wise performance.
+## D-Mart Analysis Dashboard
+![D-Mart Dashboard](https://raw.githubusercontent.com/AnamikaT123/Data-Analysis/main/D-Mart%20Screenshot.jpeg)
 
-10. HR ANALYSIS DASHBOARD
+
+11. HR ANALYSIS DASHBOARD
 Problem: The HR team wants to improve employee engagement and reduce attrition.
 Action: Analyzed data on employee demographics, departments, and resignation history.
 Result: Built a dashboard that highlights turnover by department, employee satisfaction metrics, and actionable HR insights.
+## HR Analysis Dashboard
+![HR Analysis Dashboard](https://raw.githubusercontent.com/AnamikaT123/Data-Analysis/main/HR%20%20Screenshot.jpeg)
+![HR Dashboard View](https://raw.githubusercontent.com/AnamikaT123/Data-Analysis/main/HR%20Screenshot%202.jpeg)
 
-11. MOBILE SALES ANALYSIS
+
+13. MOBILE SALES ANALYSIS
 Problem: The company wants to know which mobile brands are top-selling and where to focus marketing.
 Action: Created a Power BI dashboard that tracks unit sales, revenue, and brand performance over time.
 Result: Helped identify top-performing regions and mobile models, enabling better promotional planning.
 
-12. SOCIAL MEDIA ANALYSIS DASHBOARD
+14. SOCIAL MEDIA ANALYSIS DASHBOARD
 Problem: The client needs to track how well their social media campaigns are working.
 Action: Used Power BI to visualize engagement metrics like likes, shares, comments, and follower growth over time.
 Result: Dashboard helped identify which posts and platforms were most effective — guiding content strategy.
 
-13. BUDGET ANALYSIS
+15. BUDGET ANALYSIS
 Problem: How to track personal or departmental spending and stay within budget?
 Action: Built a simple Power BI tool that compares planned vs. actual expenses across categories.
 Result: Provided clear visuals of overspending areas and supported smarter financial planning.
 
-14. COVID ANALYSIS
+16. COVID ANALYSIS
 Problem: Understanding the spread and impact of COVID-19 across India.
 Action: Analyzed COVID data by state and time using Power BI visuals like maps and trend charts.
 Result: Built an informative dashboard showing daily cases, recoveries, and regional comparisons — useful for awareness and planning.
